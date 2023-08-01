@@ -1,4 +1,4 @@
-# Web Development Bootcamp covering, Shopify & eCommerce Development, and Freelancing skills and strategies
+# Web Development Bootcamp covering, Shopify, eCommerce Development,Freelancing skills & strategies
 
 <p align="center">
    https://www.freemote.com/features
